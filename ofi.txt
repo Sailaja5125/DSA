@@ -1,0 +1,1 @@
+python main.py run DeepFaceLive --userdata-dir C:\Users\HP\Downloads\DeepFaceLive-master\DeepFaceLive-master
